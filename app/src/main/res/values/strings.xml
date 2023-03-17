@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">20220516-RAJAKALLURU-NYCSCHOOLS</string>
+    <string name="show_details">Show Details</string>
+    <string name="title_sat">SAT SCORES:</string>
+    <string name="title_critical_reading">Critical Reading: </string>
+    <string name="title_math">Math: </string>
+    <string name="title_writing">Writing: </string>
+    <string name="school_information">School Information:</string>
+    <string name="school_name">Name :</string>
+    <string name="school_boro">Boro :</string>
+    <string name="school_description">Description: </string>
+    <string name="not_available">Not Available</string>
+
+</resources>
